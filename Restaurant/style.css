@@ -1,0 +1,37 @@
+body{
+    font-size: 15px;
+    background-color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#header-nav{
+    background-color: #f6b319;
+    border: 0;
+}
+
+#logo-img{
+    background: url('../Resto/img.jpg') no-repeat;
+    width: 150px;
+    height: 150px;
+    margin: 10px 15px 10px 0px;
+}
+.navbar-brand{
+    padding-top: 25px;
+}
+
+.navbar-brand h1{
+    
+    color: #557c3e;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px #222;
+    line-height: .75;
+}
+.navbar-brand a{
+    text-decoration:none;
+}
+
+.navbar-brand p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: .7em;
+    vertical-align: middle;
+}
