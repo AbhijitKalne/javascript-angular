@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+
+    box-sizing: border-box;
+}
+
+
+.main-box{
+   margin: 10px;
+    background-color: greenyellow;
+}
+
+p{
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+
+}
