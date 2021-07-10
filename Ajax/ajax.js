@@ -5,7 +5,7 @@ function sayHello(){
   var hto =new XMLHttpRequest();
   console.log("declare")
   
-  hto.open("GET","text.json",true)
+  hto.open("GET","text.txt",true)
 
   hto.onprogress = function(){
       console.log("processing")
