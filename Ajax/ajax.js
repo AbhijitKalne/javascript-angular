@@ -13,7 +13,7 @@ function sayHello(){
   hto.onload = function(){
       console.log(this.responseText)
   }
-hto.send()
+
 }
 
 // $.ajax({
