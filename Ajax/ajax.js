@@ -11,7 +11,7 @@ function sayHello(){
       console.log("processing")
   }
   hto.onload = function(){
-      console.log("loaded")
+      console.log(this.responseText)
   }
 hto.send()
 }
