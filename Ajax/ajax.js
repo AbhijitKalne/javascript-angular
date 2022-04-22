@@ -16,12 +16,3 @@ function sayHello(){
 
 }
 
-// $.ajax({
-
-//     type:"GET",
-//     URl:"text.json",
-//     datatype:"text",
-//     success:function(data){
-//         alert(data)
-//     }
-// })
