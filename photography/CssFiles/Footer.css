@@ -1,0 +1,9 @@
+a{
+    text-decoration: none !important;
+    color: rgb(65, 14, 14) !important;
+}
+
+a:hover{
+    color: burlywood !important;
+}
+
